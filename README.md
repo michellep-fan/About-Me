@@ -1,6 +1,8 @@
-Hello! I’m @michellep-fan, or Michelle Fan. I’m interested in the intersection between technology and public health, and particularily the use of data science to improve upon our current information systems and technological integrations into social sciences.
+Hello! I’m @michellep-fan, or Michelle Fan. I’m interested in the intersection between technology and public health, and particularily the use of data science to improve upon our current information systems and technological integrations into social sciences. 
 
-How to reach me:
+Student at University of California, Berkeley // Studying Public Health and Data Science
+
+
 Email me - michellefan@berkeley.edu
 
 <!---
